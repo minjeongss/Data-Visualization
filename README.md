@@ -13,7 +13,7 @@
 
 
 ### 소개
-|![1](https://user-images.githubusercontent.com/66003567/218489665-444bfa98-33db-43cc-8eaa-c5fa7b474e0f.png)|![2](https://user-images.githubusercontent.com/66003567/218489801-dce422d4-e189-4875-b8d9-f11d1009ee68.png)|
+|![1](https://user-images.githubusercontent.com/66003567/218496464-201ce895-e29f-4a7b-bd7e-47466c9823bf.png)|![2](https://user-images.githubusercontent.com/66003567/218489801-dce422d4-e189-4875-b8d9-f11d1009ee68.png)|
 |--|--|
 |![3](https://user-images.githubusercontent.com/66003567/218490126-74ede21f-38b5-4690-8192-57c989a9a5ac.png)|![4](https://user-images.githubusercontent.com/66003567/218490211-18f59cf3-2c9a-4a85-b01e-999920275317.png)|
 ### PART 2
